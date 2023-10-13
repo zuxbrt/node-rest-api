@@ -1,0 +1,26 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "REST API written in express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuxbrt/node-rest-api.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zuxbrt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuxbrt/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/zuxbrt/node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
