@@ -1,0 +1,5 @@
+PORT=XXXX
+
+MYSQL_DB='test'
+MYSQL_DB_USR='usr'
+MYSQL_DB_PW='pass'
